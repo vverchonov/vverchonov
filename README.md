@@ -3,7 +3,7 @@
 - 🌱 I’m constantly learning React and backend features to become better developer and close my knowledge gaps!
 - 💞️ I’m looking to collaborate on my portfolio ;)
 - 📫 How to reach me vverchonov@gmail.com, +1 437 981 32 39
-- https://vverchonov.vercel.app/
+- PORTFOLIO: https://vverchonov.vercel.app/
 
 <!---
 vverchonov/vverchonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
